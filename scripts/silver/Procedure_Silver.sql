@@ -252,5 +252,6 @@ BEGIN
 		PRINT '=========================================='
 	END CATCH
 END
+Exec silver.load_silver
 
 
